@@ -208,13 +208,6 @@ All plots are publication-ready with clear titles, legends, and statistical anno
 - Cost-benefit analysis and ROI thinking
 - Strategic recommendations with uncertainty
 
-## 📚 Further Reading
-
-- [Statistical Methodology Documentation](docs/methodology.md)
-- [Business Case and Requirements](docs/business_case.md)
-- [Result Interpretation Guide](docs/interpretation_guide.md)
-- [Jupyter Notebooks](notebooks/) for detailed analysis
-
 ## 🤝 Contributing
 
 This is a portfolio project, but feedback and suggestions are welcome! Please feel free to:
